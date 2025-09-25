@@ -41,14 +41,8 @@ rv32i_single_cycle/
 └── README.md
 </pre>
 
-<h2>Getting Started</h2>
-<p><b>Prerequisites:</b> Verilog simulator (Verilator, XSIM, ModelSim), RISC-V assembler (Venus or local toolchain)</p>
-
 <h3>Run Testbench</h3>
-<pre>
-iverilog -o tb_rv32i testbench/tb_rv32i.v src/*.v
-vvp tb_rv32i
-</pre>
+<p>Verilog simulator (Verilator, XSIM, ModelSim), RISC-V assembler (Venus or local toolchain)</p>
 
 <h2>Usage</h2>
 <ul>
