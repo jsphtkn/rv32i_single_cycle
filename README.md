@@ -61,4 +61,4 @@ vvp tb_rv32i
 <p>Released under the MIT License.</p>
 
 <h2>Author</h2>
-<p><b>Yusuf Tekin</b> – Electronics & Communication Engineer, specializing in digital design and RISC-V CPU architecture.</p>
+<p><b>Yusuf Tekin</b> – Electronics & Communication Engineer, tekiny20@itu.edu.tr.</p>
